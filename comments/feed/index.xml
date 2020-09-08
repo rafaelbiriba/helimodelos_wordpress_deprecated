@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentários sobre Helimodelos.com - Helimodelos.com</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Blog destinado a centralizar informações de Helimodelismo. Dicas, passo-a-passo, sugestões e muito mais em um só lugar...</description>
+	<lastBuildDate>Thu, 12 Oct 2017 11:46:55 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.2.28</generator>
+	<item>
+		<title>Comentário sobre Manutenção por Raimundo Nonato Rocha Neiva</title>
+		<link>./../../venda-e-manutencao/index.html#comment-10835</link>
+		<dc:creator><![CDATA[Raimundo Nonato Rocha Neiva]]></dc:creator>
+		<pubDate>Thu, 12 Oct 2017 11:46:55 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?page_id=219#comment-10835</guid>
+		<description><![CDATA[Comprei um helicoptero nine eagles kestlel 500, veio uma fonte, um carregador nine eagles 11,1v e 7,4v e uma bateria de dois cabos uma para o aviao e outra para o carregador, a bateria e de 7,4v 600mAh  2cell, so que ela nao carregam so aparece a luz vrmelha e a luz verde nao acende. Seta que o senhor pode me ajudar, liguei a fonte em 220 volts. Obrigado Nonato.]]></description>
+		<content:encoded><![CDATA[<p>Comprei um helicoptero nine eagles kestlel 500, veio uma fonte, um carregador nine eagles 11,1v e 7,4v e uma bateria de dois cabos uma para o aviao e outra para o carregador, a bateria e de 7,4v 600mAh  2cell, so que ela nao carregam so aparece a luz vrmelha e a luz verde nao acende. Seta que o senhor pode me ajudar, liguei a fonte em 220 volts. Obrigado Nonato.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentário sobre Roubo King Brasil: Hobbyking decepciona modelistas abrindo armazém com preços elevados por Dash</title>
+		<link>./../../2012/12/roubo-king-brasil-hobbyking-decepciona-modelistas-abrindo-armazem-com-precos-elevados/index.html#comment-10728</link>
+		<dc:creator><![CDATA[Dash]]></dc:creator>
+		<pubDate>Mon, 05 Jun 2017 08:08:46 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=501#comment-10728</guid>
+		<description><![CDATA[djtornados,   Na verdade o ip de sua interface eth0 Ã© 192.168.0.180, entÃ£o o correto seria:   iptables -A INPUT -i eth0 -d 190/868.0.112.32 -p udp -m udp --dport 1194 -j ACCEPT   Configure o cliente para se conectar com 192.168.0.180.   AlÃ©m disso nÃ£o esqueÃ§a da regra de NAT em seu roteador ADSL para pode se conectar pelo IP da Internet.Nerd.]]></description>
+		<content:encoded><![CDATA[<p>djtornados,   Na verdade o ip de sua interface eth0 Ã© 192.168.0.180, entÃ£o o correto seria:   iptables -A INPUT -i eth0 -d 190/868.0.112.32 -p udp -m udp &#8211;dport 1194 -j ACCEPT   Configure o cliente para se conectar com 192.168.0.180.   AlÃ©m disso nÃ£o esqueÃ§a da regra de NAT em seu roteador ADSL para pode se conectar pelo IP da Internet.Nerd.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentário sobre Fuja dos helicopteros de má qualidade e aprenda a escolher um modelo! por Wellington</title>
+		<link>./../../2012/08/fuja-dos-helicopteros-de-ma-qualidade-e-aprenda-a-escolher-um-modelo/index.html#comment-10647</link>
+		<dc:creator><![CDATA[Wellington]]></dc:creator>
+		<pubDate>Fri, 03 Mar 2017 19:19:52 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=196#comment-10647</guid>
+		<description><![CDATA[Boa tarde, recentemente comprei para o meu filho um helicóptero thunder 18, já me informei que não se trata de um aero modelo e sim um brinquedo, mas agora já era kkk a minha dúvida é a seguinte ; a bateria dele não dura 10 minutos por ter apenas 1500mha eu queria saber se posso colocar uma de 5500mha pra durar mais e se isso não danificaria algum componente, ou se ele ficar muito tempo ligado se pode danificar também, inicialmente a minha ideia é colocar uma bateria potente e usar ele por uns 20 minutos e parar, para deixar ele esfriar os componentes e depois usar de novo. Não sei se já fez alguma adaptação dessa, mas se puder me ajudar agradeceria, nada mais chato do que criança olhando para o brinquedo sem poder brincar kk... Obrigado]]></description>
+		<content:encoded><![CDATA[<p>Boa tarde, recentemente comprei para o meu filho um helicóptero thunder 18, já me informei que não se trata de um aero modelo e sim um brinquedo, mas agora já era kkk a minha dúvida é a seguinte ; a bateria dele não dura 10 minutos por ter apenas 1500mha eu queria saber se posso colocar uma de 5500mha pra durar mais e se isso não danificaria algum componente, ou se ele ficar muito tempo ligado se pode danificar também, inicialmente a minha ideia é colocar uma bateria potente e usar ele por uns 20 minutos e parar, para deixar ele esfriar os componentes e depois usar de novo. Não sei se já fez alguma adaptação dessa, mas se puder me ajudar agradeceria, nada mais chato do que criança olhando para o brinquedo sem poder brincar kk&#8230; Obrigado</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentário sobre Manuais por Leandro Eller</title>
+		<link>./../../manuais/index.html#comment-10622</link>
+		<dc:creator><![CDATA[Leandro Eller]]></dc:creator>
+		<pubDate>Wed, 11 Jan 2017 13:21:50 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?page_id=924#comment-10622</guid>
+		<description><![CDATA[Gostaria de deixar meu agradecimento ao site, por tanta dedicação e por disponibilizar de forma rápida e facil as informações de que precisamos, para aprender como lidar com essas maquinas voadoras maravilhosas.
+
+Muito Grato.]]></description>
+		<content:encoded><![CDATA[<p>Gostaria de deixar meu agradecimento ao site, por tanta dedicação e por disponibilizar de forma rápida e facil as informações de que precisamos, para aprender como lidar com essas maquinas voadoras maravilhosas.</p>
+<p>Muito Grato.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentário sobre Manutenção por Fernanda</title>
+		<link>./../../venda-e-manutencao/index.html#comment-10617</link>
+		<dc:creator><![CDATA[Fernanda]]></dc:creator>
+		<pubDate>Mon, 02 Jan 2017 22:00:11 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?page_id=219#comment-10617</guid>
+		<description><![CDATA[Olá, Boa Noite!
+Comprei um V912 ,tem poucos dias de uso, só que hj ele caiu. Depois que coloquei para  funcionar novamente ele estava girando tendente ao sentido anti-horário.  O que faço para consegui resolver???]]></description>
+		<content:encoded><![CDATA[<p>Olá, Boa Noite!<br />
+Comprei um V912 ,tem poucos dias de uso, só que hj ele caiu. Depois que coloquei para  funcionar novamente ele estava girando tendente ao sentido anti-horário.  O que faço para consegui resolver???</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentário sobre Curto-circuito e sobrecarga nas baterias LiPo podem causar incêndios por Gabriel Viti</title>
+		<link>./../../2014/01/curto-circuito-e-sobrecarga-nas-baterias-lipo-podem-causar-incendios/index.html#comment-10616</link>
+		<dc:creator><![CDATA[Gabriel Viti]]></dc:creator>
+		<pubDate>Tue, 27 Dec 2016 13:06:52 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=989#comment-10616</guid>
+		<description><![CDATA[eu gostaria saber se uma bateria posta na porta bagas do carro junto com as ferramentas pode originar curto circuito e postermente incêndio?]]></description>
+		<content:encoded><![CDATA[<p>eu gostaria saber se uma bateria posta na porta bagas do carro junto com as ferramentas pode originar curto circuito e postermente incêndio?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentário sobre Fuja dos helicopteros de má qualidade e aprenda a escolher um modelo! por lucas</title>
+		<link>./../../2012/08/fuja-dos-helicopteros-de-ma-qualidade-e-aprenda-a-escolher-um-modelo/index.html#comment-10615</link>
+		<dc:creator><![CDATA[lucas]]></dc:creator>
+		<pubDate>Tue, 20 Dec 2016 10:44:54 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=196#comment-10615</guid>
+		<description><![CDATA[qual seria melhor entre os dois Helicóptero Wltoys V912 Brushless Version 4-Ch 2.4Ghz RTF ou Helicóptero V913 Brushless Version 4-Ch 2.4Ghz RTF
+da para fazer manobras com eles ??]]></description>
+		<content:encoded><![CDATA[<p>qual seria melhor entre os dois Helicóptero Wltoys V912 Brushless Version 4-Ch 2.4Ghz RTF ou Helicóptero V913 Brushless Version 4-Ch 2.4Ghz RTF<br />
+da para fazer manobras com eles ??</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentário sobre Não pule etapas, começe do jeito certo! por Emerson</title>
+		<link>./../../2013/01/nao-pule-etapas-comece-do-jeito-certo/index.html#comment-10603</link>
+		<dc:creator><![CDATA[Emerson]]></dc:creator>
+		<pubDate>Mon, 05 Dec 2016 13:29:39 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=563#comment-10603</guid>
+		<description><![CDATA[O que me falam do v 913?]]></description>
+		<content:encoded><![CDATA[<p>O que me falam do v 913?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentário sobre Turnigy 9x + FRSky: Rádio de 9 canais com telemetria por um preço muito em conta! por Wislan</title>
+		<link>./../../2012/08/turnigy-9x-frsky-radio-de-9-canais-com-telemetria-por-um-preco-muito-em-conta/index.html#comment-10582</link>
+		<dc:creator><![CDATA[Wislan]]></dc:creator>
+		<pubDate>Fri, 04 Nov 2016 00:01:06 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=201#comment-10582</guid>
+		<description><![CDATA[Ola glr preciso de ajuda urgente estou com turningy 9x com frsky porem qnd td esta ligado eu me afasto uns 10 passo di aero e o bip da telemetria dispara isso e normal ja reposicionei as antena do receptor mas nd continua  alguem podeira ajudar]]></description>
+		<content:encoded><![CDATA[<p>Ola glr preciso de ajuda urgente estou com turningy 9x com frsky porem qnd td esta ligado eu me afasto uns 10 passo di aero e o bip da telemetria dispara isso e normal ja reposicionei as antena do receptor mas nd continua  alguem podeira ajudar</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentário sobre Entre em contato por Davi Pires</title>
+		<link>./../../entre-em-contato/index.html#comment-10577</link>
+		<dc:creator><![CDATA[Davi Pires]]></dc:creator>
+		<pubDate>Fri, 21 Oct 2016 17:15:03 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?page_id=26#comment-10577</guid>
+		<description><![CDATA[Boa tarde, sou iniciante e gostaria de saber o melhor modelo de helicoptero para começar, gostaria de algumas dicas de qual comprar. No aguardo, obrigado.
+
+Davi]]></description>
+		<content:encoded><![CDATA[<p>Boa tarde, sou iniciante e gostaria de saber o melhor modelo de helicoptero para começar, gostaria de algumas dicas de qual comprar. No aguardo, obrigado.</p>
+<p>Davi</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentário sobre Manuais por Roger Fly</title>
+		<link>./../../manuais/index.html#comment-10547</link>
+		<dc:creator><![CDATA[Roger Fly]]></dc:creator>
+		<pubDate>Sun, 07 Aug 2016 17:17:05 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?page_id=924#comment-10547</guid>
+		<description><![CDATA[Quero fazer uma manutenção do meu COPTERX450 ,com vocês...como faço?]]></description>
+		<content:encoded><![CDATA[<p>Quero fazer uma manutenção do meu COPTERX450 ,com vocês&#8230;como faço?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentário sobre Manutenção por Sergio Ricardo Santos Oliveira</title>
+		<link>./../../venda-e-manutencao/index.html#comment-10532</link>
+		<dc:creator><![CDATA[Sergio Ricardo Santos Oliveira]]></dc:creator>
+		<pubDate>Thu, 04 Aug 2016 04:41:53 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?page_id=219#comment-10532</guid>
+		<description><![CDATA[Boa noite, estou montando um copter x 450 v2, preciso do Esc 40a e o cartão de programação, vcs teriam para venda? Enviam para o cep 20775-050, quanto fica?]]></description>
+		<content:encoded><![CDATA[<p>Boa noite, estou montando um copter x 450 v2, preciso do Esc 40a e o cartão de programação, vcs teriam para venda? Enviam para o cep 20775-050, quanto fica?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentário sobre Montagem 450 por Roman Pierre Manikam</title>
+		<link>./../../montagem/index.html#comment-10506</link>
+		<dc:creator><![CDATA[Roman Pierre Manikam]]></dc:creator>
+		<pubDate>Fri, 22 Jul 2016 16:03:43 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?page_id=104#comment-10506</guid>
+		<description><![CDATA[Rafael esse kit do coptex com a eletronica esta certo o valor 680,00 confirma pra min ok]]></description>
+		<content:encoded><![CDATA[<p>Rafael esse kit do coptex com a eletronica esta certo o valor 680,00 confirma pra min ok</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentário sobre Entre em contato por Jesse Laureano</title>
+		<link>./../../entre-em-contato/index.html#comment-10266</link>
+		<dc:creator><![CDATA[Jesse Laureano]]></dc:creator>
+		<pubDate>Wed, 08 Jun 2016 17:02:15 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?page_id=26#comment-10266</guid>
+		<description><![CDATA[Meu helimodelo hk450 esta com um problema a bailarina dele esta encostando no final do eixo e o elevator esta invertido quando boto o stick para cima ele vai pra baixo quando boto o stick para baixo ele vai para cima já tentei de tudo e não tive suseso o meu radio e um hk-7x v2 estou muito precisando de ajuda.]]></description>
+		<content:encoded><![CDATA[<p>Meu helimodelo hk450 esta com um problema a bailarina dele esta encostando no final do eixo e o elevator esta invertido quando boto o stick para cima ele vai pra baixo quando boto o stick para baixo ele vai para cima já tentei de tudo e não tive suseso o meu radio e um hk-7x v2 estou muito precisando de ajuda.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentário sobre Montagem 450 por Margarida Mendonça</title>
+		<link>./../../montagem/index.html#comment-10167</link>
+		<dc:creator><![CDATA[Margarida Mendonça]]></dc:creator>
+		<pubDate>Sun, 17 Apr 2016 19:31:21 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?page_id=104#comment-10167</guid>
+		<description><![CDATA[vc fais manutenção]]></description>
+		<content:encoded><![CDATA[<p>vc fais manutenção</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentário sobre Manutenção por Jefferson Martins</title>
+		<link>./../../venda-e-manutencao/index.html#comment-10162</link>
+		<dc:creator><![CDATA[Jefferson Martins]]></dc:creator>
+		<pubDate>Thu, 14 Apr 2016 23:36:08 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?page_id=219#comment-10162</guid>
+		<description><![CDATA[Eu comprei um helimodelo KDs 450 s, é um equipamento bom? Pois estou começando agora, qual bateria eu devo utilizar??]]></description>
+		<content:encoded><![CDATA[<p>Eu comprei um helimodelo KDs 450 s, é um equipamento bom? Pois estou começando agora, qual bateria eu devo utilizar??</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentário sobre Como fazer filmagens aéreas com qualidade HD e gastar pouco com isso! por Helimodelos.com</title>
+		<link>./../../2012/09/como-fazer-filmagens-aereas-com-qualidade-hd-e-gastar-pouco-com-isso/index.html#comment-10156</link>
+		<dc:creator><![CDATA[Helimodelos.com]]></dc:creator>
+		<pubDate>Thu, 07 Apr 2016 17:51:25 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=252#comment-10156</guid>
+		<description><![CDATA[Jairo Pereira entra em contato com a gente pelo helimodelos@gmail.com, temos umas oportunidades pra você :)]]></description>
+		<content:encoded><![CDATA[<p>Jairo Pereira entra em contato com a gente pelo <a href="mailto:helimodelos@gmail.com">helimodelos@gmail.com</a>, temos umas oportunidades pra você <img src="./../../wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentário sobre Como fazer filmagens aéreas com qualidade HD e gastar pouco com isso! por Jairo Pereira</title>
+		<link>./../../2012/09/como-fazer-filmagens-aereas-com-qualidade-hd-e-gastar-pouco-com-isso/index.html#comment-10155</link>
+		<dc:creator><![CDATA[Jairo Pereira]]></dc:creator>
+		<pubDate>Thu, 07 Apr 2016 17:48:21 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=252#comment-10155</guid>
+		<description><![CDATA[e vc teria um para me vender?]]></description>
+		<content:encoded><![CDATA[<p>e vc teria um para me vender?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentário sobre Como fazer filmagens aéreas com qualidade HD e gastar pouco com isso! por Helimodelos.com</title>
+		<link>./../../2012/09/como-fazer-filmagens-aereas-com-qualidade-hd-e-gastar-pouco-com-isso/index.html#comment-10154</link>
+		<dc:creator><![CDATA[Helimodelos.com]]></dc:creator>
+		<pubDate>Thu, 07 Apr 2016 15:24:41 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=252#comment-10154</guid>
+		<description><![CDATA[Sem experiencia, para fazer filmagens, a melhor forma é pegar um Phantom !!]]></description>
+		<content:encoded><![CDATA[<p>Sem experiencia, para fazer filmagens, a melhor forma é pegar um Phantom !!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentário sobre Como fazer filmagens aéreas com qualidade HD e gastar pouco com isso! por Jairo Pereira</title>
+		<link>./../../2012/09/como-fazer-filmagens-aereas-com-qualidade-hd-e-gastar-pouco-com-isso/index.html#comment-10153</link>
+		<dc:creator><![CDATA[Jairo Pereira]]></dc:creator>
+		<pubDate>Thu, 07 Apr 2016 15:18:27 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=252#comment-10153</guid>
+		<description><![CDATA[para uma pessoa sem nenhuma esperiência como eu, conseguiria fazer uma filmagem aérea de +ou- 1 hora? pois não tenho noção nenhuma, e quanto ficaria um tex 450 com essa pequena camera? desdfe já muito obrigado e um grande abraço.]]></description>
+		<content:encoded><![CDATA[<p>para uma pessoa sem nenhuma esperiência como eu, conseguiria fazer uma filmagem aérea de +ou- 1 hora? pois não tenho noção nenhuma, e quanto ficaria um tex 450 com essa pequena camera? desdfe já muito obrigado e um grande abraço.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

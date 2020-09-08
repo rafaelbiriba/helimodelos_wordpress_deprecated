@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentários sobre: Roubo King Brasil: Hobbyking decepciona modelistas abrindo armazém com preços elevados</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Blog destinado a centralizar informações de Helimodelismo. Dicas, passo-a-passo, sugestões e muito mais em um só lugar...</description>
+	<lastBuildDate>Thu, 12 Oct 2017 11:46:55 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.2.28</generator>
+	<item>
+		<title>Por: Dash</title>
+		<link>./../index.html#comment-10728</link>
+		<dc:creator><![CDATA[Dash]]></dc:creator>
+		<pubDate>Mon, 05 Jun 2017 08:08:46 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=501#comment-10728</guid>
+		<description><![CDATA[djtornados,   Na verdade o ip de sua interface eth0 Ã© 192.168.0.180, entÃ£o o correto seria:   iptables -A INPUT -i eth0 -d 190/868.0.112.32 -p udp -m udp --dport 1194 -j ACCEPT   Configure o cliente para se conectar com 192.168.0.180.   AlÃ©m disso nÃ£o esqueÃ§a da regra de NAT em seu roteador ADSL para pode se conectar pelo IP da Internet.Nerd.]]></description>
+		<content:encoded><![CDATA[<p>djtornados,   Na verdade o ip de sua interface eth0 Ã© 192.168.0.180, entÃ£o o correto seria:   iptables -A INPUT -i eth0 -d 190/868.0.112.32 -p udp -m udp &#8211;dport 1194 -j ACCEPT   Configure o cliente para se conectar com 192.168.0.180.   AlÃ©m disso nÃ£o esqueÃ§a da regra de NAT em seu roteador ADSL para pode se conectar pelo IP da Internet.Nerd.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Renan Piva Pinheiro</title>
+		<link>./../index.html#comment-8386</link>
+		<dc:creator><![CDATA[Renan Piva Pinheiro]]></dc:creator>
+		<pubDate>Tue, 03 Mar 2015 01:51:33 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=501#comment-8386</guid>
+		<description><![CDATA[Nao. Essa solução dita por vc é de brasileiro mediocre, por pessoas assim que continuamos na mesma merda.]]></description>
+		<content:encoded><![CDATA[<p>Nao. Essa solução dita por vc é de brasileiro mediocre, por pessoas assim que continuamos na mesma merda.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Diego Alencar</title>
+		<link>./../index.html#comment-7884</link>
+		<dc:creator><![CDATA[Diego Alencar]]></dc:creator>
+		<pubDate>Sun, 01 Feb 2015 21:54:54 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=501#comment-7884</guid>
+		<description><![CDATA[na boa vcs acharam que eles iam sonegar impostos para vender no mesmo preço lá de fora ?, isso aqui é Brasil 110% de carga tributaria para importações comerciais, ridículo o governo cobra 60% na importação informal ai todos ficam mau acostumados, agora se alguém esta incomodado a solução é mudar de pais]]></description>
+		<content:encoded><![CDATA[<p>na boa vcs acharam que eles iam sonegar impostos para vender no mesmo preço lá de fora ?, isso aqui é Brasil 110% de carga tributaria para importações comerciais, ridículo o governo cobra 60% na importação informal ai todos ficam mau acostumados, agora se alguém esta incomodado a solução é mudar de pais</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Weberson Rodrigo Ebinho Sollos</title>
+		<link>./../index.html#comment-3600</link>
+		<dc:creator><![CDATA[Weberson Rodrigo Ebinho Sollos]]></dc:creator>
+		<pubDate>Sat, 20 Sep 2014 16:18:08 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=501#comment-3600</guid>
+		<description><![CDATA[Tem como comprar na internacional ? adicionei uma bateria de10,00 na hora de pagar virou 44,00 ?]]></description>
+		<content:encoded><![CDATA[<p>Tem como comprar na internacional ? adicionei uma bateria de10,00 na hora de pagar virou 44,00 ?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dagob</title>
+		<link>./../index.html#comment-1008</link>
+		<dc:creator><![CDATA[dagob]]></dc:creator>
+		<pubDate>Sun, 10 Nov 2013 19:46:54 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=501#comment-1008</guid>
+		<description><![CDATA[Eu também acho desleal o preço que se cobram no Brasil, até mesmo no Mercado Livre, os caras cmpram lá na China um Hubsan X4 H107C por 52USD inclusive porto e vendem no ML por 340BRL (200%) e isso porque é no ML porque se fosse em uma loja fisica, a pessoa não pagaria menos que 500BRL. Na minha honesta opinião 100% já seria um lucro muito mais que bom!]]></description>
+		<content:encoded><![CDATA[<p>Eu também acho desleal o preço que se cobram no Brasil, até mesmo no Mercado Livre, os caras cmpram lá na China um Hubsan X4 H107C por 52USD inclusive porto e vendem no ML por 340BRL (200%) e isso porque é no ML porque se fosse em uma loja fisica, a pessoa não pagaria menos que 500BRL. Na minha honesta opinião 100% já seria um lucro muito mais que bom!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dagob</title>
+		<link>./../index.html#comment-1007</link>
+		<dc:creator><![CDATA[dagob]]></dc:creator>
+		<pubDate>Sun, 10 Nov 2013 19:18:42 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=501#comment-1007</guid>
+		<description><![CDATA[A regra é te devolverem em forma de crédito, mas toda regra tem sua exceção. Não sei como vocês aí do Brasil compram, mas eu sempre pago pelo PayPal, então a última vez que comprei uma bateria que veio danificada, contactei-os relatando o problema, me deram uma canseira, fiz uma reclamação pelo paypal exigindo meu dinheiro de volta, o PayPal pleiteou ao meu favor e a HobbuKing me devolveu o dinheiro da bateria. Façam uma conta no Paypal e pague sempre por lá, será alguem a mais para ajudar na briga.]]></description>
+		<content:encoded><![CDATA[<p>A regra é te devolverem em forma de crédito, mas toda regra tem sua exceção. Não sei como vocês aí do Brasil compram, mas eu sempre pago pelo PayPal, então a última vez que comprei uma bateria que veio danificada, contactei-os relatando o problema, me deram uma canseira, fiz uma reclamação pelo paypal exigindo meu dinheiro de volta, o PayPal pleiteou ao meu favor e a HobbuKing me devolveu o dinheiro da bateria. Façam uma conta no Paypal e pague sempre por lá, será alguem a mais para ajudar na briga.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Hamilton Peretti</title>
+		<link>./../index.html#comment-965</link>
+		<dc:creator><![CDATA[Hamilton Peretti]]></dc:creator>
+		<pubDate>Thu, 03 Oct 2013 11:29:22 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=501#comment-965</guid>
+		<description><![CDATA[Piada Roubo King épra trouxas !!!
+]]></description>
+		<content:encoded><![CDATA[<p>Piada Roubo King épra trouxas !!!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Rafael Biriba</title>
+		<link>./../index.html#comment-864</link>
+		<dc:creator><![CDATA[Rafael Biriba]]></dc:creator>
+		<pubDate>Mon, 19 Aug 2013 13:52:50 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=501#comment-864</guid>
+		<description><![CDATA[Não é fácil mesmo não...
+
+Mas com a mesma força de vontade que criei o blog helimodelos.com, preciso manter a loja para todos os iniciantes que queriam encontrar facilidades em começar no hobby :)
+
+O objetivo tanto do blog quanto da loja, nunca foi lucrar...
+
+Se você analisar bem, verá que o blog nem tem anuncios do Google (forma como geralmente os blogs são sustentados). Esses anuncios poluem a página e atrapalham o aprendizado...
+
+Hoje o blog se mantém pelas poucas doações que recebemos em ./../../../../doacoes/index.html
+
+:) Bons voos !!]]></description>
+		<content:encoded><![CDATA[<p>Não é fácil mesmo não&#8230;</p>
+<p>Mas com a mesma força de vontade que criei o blog helimodelos.com, preciso manter a loja para todos os iniciantes que queriam encontrar facilidades em começar no hobby <img src="./../../../../wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>O objetivo tanto do blog quanto da loja, nunca foi lucrar&#8230;</p>
+<p>Se você analisar bem, verá que o blog nem tem anuncios do Google (forma como geralmente os blogs são sustentados). Esses anuncios poluem a página e atrapalham o aprendizado&#8230;</p>
+<p>Hoje o blog se mantém pelas poucas doações que recebemos em <a href="./../../../../doacoes/index.html" rel="nofollow">./../../../../doacoes/index.html</a></p>
+<p><img src="./../../../../wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Bons voos !!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: adison tulio</title>
+		<link>./../index.html#comment-863</link>
+		<dc:creator><![CDATA[adison tulio]]></dc:creator>
+		<pubDate>Mon, 19 Aug 2013 13:50:17 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=501#comment-863</guid>
+		<description><![CDATA[Ae Rafael,
+
+Admiro vcs aeromodelistas proprietários de lojas....a coisa no Brasil não é fácil........impostos.....impostos...... fica dificil competir com tantas ljas de fora........desejo mto comprar no Brasil......mas não é facil.
+
+abs e parabens por sua lja
+
+bons voos]]></description>
+		<content:encoded><![CDATA[<p>Ae Rafael,</p>
+<p>Admiro vcs aeromodelistas proprietários de lojas&#8230;.a coisa no Brasil não é fácil&#8230;&#8230;..impostos&#8230;..impostos&#8230;&#8230; fica dificil competir com tantas ljas de fora&#8230;&#8230;..desejo mto comprar no Brasil&#8230;&#8230;mas não é facil.</p>
+<p>abs e parabens por sua lja</p>
+<p>bons voos</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Rafael Biriba</title>
+		<link>./../index.html#comment-862</link>
+		<dc:creator><![CDATA[Rafael Biriba]]></dc:creator>
+		<pubDate>Mon, 19 Aug 2013 13:47:55 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=501#comment-862</guid>
+		<description><![CDATA[Adison,
+Como o Andre falou bem ai acima, nem todos tem cartão de crédito internacional. E o principal, comprando no mercado livre ou em lojas (como a loja helimodelos.com) é possivel parcelar, o que as vezes é melhor do que comprar mais barato e a vista.
+
+Mas, sem dúvida comprar direto na HK é a opção mais barata, para quem não tem pressa de receber o pedido.]]></description>
+		<content:encoded><![CDATA[<p>Adison,<br />
+Como o Andre falou bem ai acima, nem todos tem cartão de crédito internacional. E o principal, comprando no mercado livre ou em lojas (como a loja helimodelos.com) é possivel parcelar, o que as vezes é melhor do que comprar mais barato e a vista.</p>
+<p>Mas, sem dúvida comprar direto na HK é a opção mais barata, para quem não tem pressa de receber o pedido.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: adison tulio</title>
+		<link>./../index.html#comment-861</link>
+		<dc:creator><![CDATA[adison tulio]]></dc:creator>
+		<pubDate>Mon, 19 Aug 2013 13:45:12 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=501#comment-861</guid>
+		<description><![CDATA[Para mim a Hobby king oferece produtos de qualidade e preços justos, .mas lá fora....aqui no Brasil a coisa é diferente....
+temos que sustentar um bando de folgados, por isso as altas txs de impostos, continuo comprando da HK , espero uns 20 dias e meu material esta nas mãos......no Armazem Brasil...nem pensar
+
+abs e bons voos a tdos]]></description>
+		<content:encoded><![CDATA[<p>Para mim a Hobby king oferece produtos de qualidade e preços justos, .mas lá fora&#8230;.aqui no Brasil a coisa é diferente&#8230;.<br />
+temos que sustentar um bando de folgados, por isso as altas txs de impostos, continuo comprando da HK , espero uns 20 dias e meu material esta nas mãos&#8230;&#8230;no Armazem Brasil&#8230;nem pensar</p>
+<p>abs e bons voos a tdos</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Rafael Biriba</title>
+		<link>./../index.html#comment-860</link>
+		<dc:creator><![CDATA[Rafael Biriba]]></dc:creator>
+		<pubDate>Mon, 19 Aug 2013 13:40:59 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=501#comment-860</guid>
+		<description><![CDATA[Concordo André.
+
+Foi com esse objetivo que criei a loja helimodelos.com, para tentar amenizar a diferença de preços, tentando fazer um preço em conta pra quem está começando no hobby.
+
+Com objetivo de ajudar e não de lucrar... :)]]></description>
+		<content:encoded><![CDATA[<p>Concordo André.</p>
+<p>Foi com esse objetivo que criei a loja helimodelos.com, para tentar amenizar a diferença de preços, tentando fazer um preço em conta pra quem está começando no hobby.</p>
+<p>Com objetivo de ajudar e não de lucrar&#8230; <img src="./../../../../wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Andre L B Giraldi</title>
+		<link>./../index.html#comment-859</link>
+		<dc:creator><![CDATA[Andre L B Giraldi]]></dc:creator>
+		<pubDate>Mon, 19 Aug 2013 13:35:50 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=501#comment-859</guid>
+		<description><![CDATA[Lembro bem quando ainda se falava na provável vinda da HK para o Brasil. Na hora que fiquei sabendo, passei um email para o HQ da HK falando que a vinda para o Brasil estava fadada ao insucesso. Expliquei a mecânica tributária e principalmente a cabeça do brasileiro, que não sabe o que é trabalhar dentro de uma margem justa. E que o consumidor HK habitual brasileiro percebendo que o que era vantagem, se tornou uma desvantagem, migraria rapidamente para outro fornecedor e detonaria em mêses a hk por aqui. Profético? Nada! Óbvio! 
+
+Enfim, para consumo próprio comprar direto com risco de ser taxado ou não ainda é melhor do que comprar por aqui.
+
+O povo fala da postura dos idelaizadores, mas quando colocam suas tranqueirinhas para vender no ML aí pode cobrar 200%!!! Realmente quem faz o custo Brasil somos nós mesmos! O justo, para esse povo que vende no ML também deveria ser 3 pçs para para a que comprou para si, para tornar o hobby mais inclusivo e principalmente para ser coerente com o discurso.
+
+Ah, mas o carinha não tem cc internacional, eu tenho! Tá bom mané, mas os caras tiveram a idéia de trazer, ir a China, fazer contato, e fazer uma compra de 300.000,00 então...tome 260% de diferença no preço...brazil o país da justiça conforme a conveniência.]]></description>
+		<content:encoded><![CDATA[<p>Lembro bem quando ainda se falava na provável vinda da HK para o Brasil. Na hora que fiquei sabendo, passei um email para o HQ da HK falando que a vinda para o Brasil estava fadada ao insucesso. Expliquei a mecânica tributária e principalmente a cabeça do brasileiro, que não sabe o que é trabalhar dentro de uma margem justa. E que o consumidor HK habitual brasileiro percebendo que o que era vantagem, se tornou uma desvantagem, migraria rapidamente para outro fornecedor e detonaria em mêses a hk por aqui. Profético? Nada! Óbvio! </p>
+<p>Enfim, para consumo próprio comprar direto com risco de ser taxado ou não ainda é melhor do que comprar por aqui.</p>
+<p>O povo fala da postura dos idelaizadores, mas quando colocam suas tranqueirinhas para vender no ML aí pode cobrar 200%!!! Realmente quem faz o custo Brasil somos nós mesmos! O justo, para esse povo que vende no ML também deveria ser 3 pçs para para a que comprou para si, para tornar o hobby mais inclusivo e principalmente para ser coerente com o discurso.</p>
+<p>Ah, mas o carinha não tem cc internacional, eu tenho! Tá bom mané, mas os caras tiveram a idéia de trazer, ir a China, fazer contato, e fazer uma compra de 300.000,00 então&#8230;tome 260% de diferença no preço&#8230;brazil o país da justiça conforme a conveniência.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Helimodelos.com</title>
+		<link>./../index.html#comment-803</link>
+		<dc:creator><![CDATA[Helimodelos.com]]></dc:creator>
+		<pubDate>Fri, 26 Jul 2013 20:16:48 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=501#comment-803</guid>
+		<description><![CDATA[Não esqueça de visitar a Loja da Helimodelos.com: http://lojahelimodelos.com/ :) :)]]></description>
+		<content:encoded><![CDATA[<p>Não esqueça de visitar a Loja da Helimodelos.com: <a href="http://lojahelimodelos.com/" rel="nofollow">http://lojahelimodelos.com/</a> <img src="./../../../../wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <img src="./../../../../wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Renan Bastione</title>
+		<link>./../index.html#comment-785</link>
+		<dc:creator><![CDATA[Renan Bastione]]></dc:creator>
+		<pubDate>Sun, 21 Jul 2013 00:53:50 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=501#comment-785</guid>
+		<description><![CDATA[po velhos as taxas brasileira estao alticimas mesmo :( nao sei que vou fazer pra mim comprar minhas pecas nao em :(]]></description>
+		<content:encoded><![CDATA[<p>po velhos as taxas brasileira estao alticimas mesmo <img src="./../../../../wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" /> nao sei que vou fazer pra mim comprar minhas pecas nao em <img src="./../../../../wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Josué U.de Oliveira</title>
+		<link>./../index.html#comment-623</link>
+		<dc:creator><![CDATA[Josué U.de Oliveira]]></dc:creator>
+		<pubDate>Sun, 02 Jun 2013 00:40:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=501#comment-623</guid>
+		<description><![CDATA[Obriigado Rafael, vou esperar dia 14/06 pra comprar o kit completo e trocar logo tudo, e as peças dele vou fazer outra coisa com elas.]]></description>
+		<content:encoded><![CDATA[<p>Obriigado Rafael, vou esperar dia 14/06 pra comprar o kit completo e trocar logo tudo, e as peças dele vou fazer outra coisa com elas.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Rafael Biriba</title>
+		<link>./../index.html#comment-622</link>
+		<dc:creator><![CDATA[Rafael Biriba]]></dc:creator>
+		<pubDate>Sat, 01 Jun 2013 21:55:48 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=501#comment-622</guid>
+		<description><![CDATA[A eletrônica é original da CopterX, então você ainda vai sofrer um pouco com servos queimando, motor parando de funcionar e etc... Recomendo que faça logo um upgrade geral de sua eletrônica, e vá para uma mais top... Se puder recomendar, pode pegar essa aqui... http://lojahelimodelos.com/kit-eletronica-completa-450]]></description>
+		<content:encoded><![CDATA[<p>A eletrônica é original da CopterX, então você ainda vai sofrer um pouco com servos queimando, motor parando de funcionar e etc&#8230; Recomendo que faça logo um upgrade geral de sua eletrônica, e vá para uma mais top&#8230; Se puder recomendar, pode pegar essa aqui&#8230; <a href="http://lojahelimodelos.com/kit-eletronica-completa-450" rel="nofollow">http://lojahelimodelos.com/kit-eletronica-completa-450</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Josué U.de Oliveira</title>
+		<link>./../index.html#comment-621</link>
+		<dc:creator><![CDATA[Josué U.de Oliveira]]></dc:creator>
+		<pubDate>Sat, 01 Jun 2013 19:22:14 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=501#comment-621</guid>
+		<description><![CDATA[Rafel comprei o coptex de um cara no rio que so tinha feito um voo dele ,assim disse. mas ele é todo horiginal da copterx, e  é novinho! eu mesmo ainda nem voei com ele . tudo nele é copterx . os servo saõ copterx   CX -9G e um da bailarina ta  zuando. o que voce me indica.]]></description>
+		<content:encoded><![CDATA[<p>Rafel comprei o coptex de um cara no rio que so tinha feito um voo dele ,assim disse. mas ele é todo horiginal da copterx, e  é novinho! eu mesmo ainda nem voei com ele . tudo nele é copterx . os servo saõ copterx   CX -9G e um da bailarina ta  zuando. o que voce me indica.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Rafael Biriba</title>
+		<link>./../index.html#comment-609</link>
+		<dc:creator><![CDATA[Rafael Biriba]]></dc:creator>
+		<pubDate>Sat, 01 Jun 2013 02:57:25 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=501#comment-609</guid>
+		<description><![CDATA[Barulho deve ser alguma engrenagem quebrada...
+
+Se você trocar por um servo de mesma marca, pode manter os outros 2.
+
+Se os servos já forem beeem antigos, o servo mais novo pode ficar mais rápido que os outros... se não for o caso, só comprar um de mesma marca e pronto :)]]></description>
+		<content:encoded><![CDATA[<p>Barulho deve ser alguma engrenagem quebrada&#8230;</p>
+<p>Se você trocar por um servo de mesma marca, pode manter os outros 2.</p>
+<p>Se os servos já forem beeem antigos, o servo mais novo pode ficar mais rápido que os outros&#8230; se não for o caso, só comprar um de mesma marca e pronto <img src="./../../../../wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Josué U.de Oliveira</title>
+		<link>./../index.html#comment-608</link>
+		<dc:creator><![CDATA[Josué U.de Oliveira]]></dc:creator>
+		<pubDate>Sat, 01 Jun 2013 01:15:07 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=501#comment-608</guid>
+		<description><![CDATA[Rafael ,se um dos servos da bailarina do coptex 450 x estragar , eu sou obrigado a trocar os tres ou posso trocar so o que estiver ruim? ele ta fazendo um barulho danado!]]></description>
+		<content:encoded><![CDATA[<p>Rafael ,se um dos servos da bailarina do coptex 450 x estragar , eu sou obrigado a trocar os tres ou posso trocar so o que estiver ruim? ele ta fazendo um barulho danado!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

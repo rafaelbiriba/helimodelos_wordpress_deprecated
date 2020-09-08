@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentários sobre: Aprenda a fazer em casa o seu próprio X de treino</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Blog destinado a centralizar informações de Helimodelismo. Dicas, passo-a-passo, sugestões e muito mais em um só lugar...</description>
+	<lastBuildDate>Thu, 12 Oct 2017 11:46:55 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.2.28</generator>
+	<item>
+		<title>Por: Helimodelos.com</title>
+		<link>./../index.html#comment-2140</link>
+		<dc:creator><![CDATA[Helimodelos.com]]></dc:creator>
+		<pubDate>Tue, 29 Jul 2014 20:20:01 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=1034#comment-2140</guid>
+		<description><![CDATA[Varetas ??]]></description>
+		<content:encoded><![CDATA[<p>Varetas ??</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Raphael Elias Mafort Hauy</title>
+		<link>./../index.html#comment-2139</link>
+		<dc:creator><![CDATA[Raphael Elias Mafort Hauy]]></dc:creator>
+		<pubDate>Tue, 29 Jul 2014 20:18:25 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=1034#comment-2139</guid>
+		<description><![CDATA[Amigo, e qual o comprimento das varetas para um helimodelo 450? att]]></description>
+		<content:encoded><![CDATA[<p>Amigo, e qual o comprimento das varetas para um helimodelo 450? att</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

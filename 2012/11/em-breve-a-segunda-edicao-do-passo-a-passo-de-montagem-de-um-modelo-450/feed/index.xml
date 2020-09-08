@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentários sobre: Em breve a segunda edição do passo a passo de montagem de um modelo 450</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Blog destinado a centralizar informações de Helimodelismo. Dicas, passo-a-passo, sugestões e muito mais em um só lugar...</description>
+	<lastBuildDate>Thu, 12 Oct 2017 11:46:55 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.2.28</generator>
+	<item>
+		<title>Por: Rafael Biriba</title>
+		<link>./../index.html#comment-141</link>
+		<dc:creator><![CDATA[Rafael Biriba]]></dc:creator>
+		<pubDate>Wed, 14 Nov 2012 13:51:57 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=441#comment-141</guid>
+		<description><![CDATA[Olá Paulo,
+Obrigado pelo elogio.
+Estou meio sem tempo, ainda preciso fazer umas edições nos vídeos das gravações... Assim que conseguir eu libero os novos vídeos...
+
+Acompanhe também pelo: https://www.facebook.com/helimodelos]]></description>
+		<content:encoded><![CDATA[<p>Olá Paulo,<br />
+Obrigado pelo elogio.<br />
+Estou meio sem tempo, ainda preciso fazer umas edições nos vídeos das gravações&#8230; Assim que conseguir eu libero os novos vídeos&#8230;</p>
+<p>Acompanhe também pelo: <a href="https://www.facebook.com/helimodelos" rel="nofollow">https://www.facebook.com/helimodelos</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Paulo Rogério</title>
+		<link>./../index.html#comment-140</link>
+		<dc:creator><![CDATA[Paulo Rogério]]></dc:creator>
+		<pubDate>Wed, 14 Nov 2012 13:45:31 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?p=441#comment-140</guid>
+		<description><![CDATA[Boa Rafael, se o primeiro já estava ótimo, imagine o segundo !!!! Parabéns pela iniciativa.]]></description>
+		<content:encoded><![CDATA[<p>Boa Rafael, se o primeiro já estava ótimo, imagine o segundo !!!! Parabéns pela iniciativa.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
